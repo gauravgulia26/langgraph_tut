@@ -1,0 +1,7 @@
+langgraph
+langchain
+langchain-huggingface
+ipykernel
+rich
+dotenv
+ipywidgets

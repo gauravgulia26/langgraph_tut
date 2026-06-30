@@ -1,6 +1,7 @@
 langgraph
 langchain
 langchain-huggingface
+langchain-groq
 ipykernel
 rich
 dotenv

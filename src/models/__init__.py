@@ -12,7 +12,6 @@ def get_llm() -> ChatGroq:
         max_tokens=None,
         timeout=None,
         max_retries=2,
-        # other params...
     )
 
     return llm
